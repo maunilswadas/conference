@@ -87,7 +87,34 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.home{
+    height: 100vh;
+}
+.index-bvm-logo{
+    height: 14vh;
+}
+.index-bvm-text{
+    font-weight: bold;
+}
+.index-conference-logo{
+    height: 70vh;
+}
+.index-down-logo{
+    height: 7vh;
+}
+.index-down-logo-div{
+    display: block;
+    margin: 0 auto;
+    padding:auto;
+    animation:btn-annimation 1s infinite;
+}
+@keyframes btn-annimation {
 
+}
+#main-page{
+    height: 100vh;
+    background-color: #00acc1;
+}
 
 
 
