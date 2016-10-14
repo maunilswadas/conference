@@ -113,9 +113,16 @@ textarea {
 }
 #main-page{
     height: 100vh;
-    background-color: #00acc1;
-}
+    background-color: #333;
 
+}
+.card-image{
+
+    margin:0 70px 0 70px;
+}
+.card{
+    padding-top:5px;
+}
 
 
 
