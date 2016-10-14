@@ -90,6 +90,8 @@ textarea {
 body{
     background-color: #fdf5e6;
 }
+/*bigin: index*/
+/*bigin:home*/
 .home{
     height: 100vh;
 }
@@ -117,11 +119,14 @@ body{
     width: 100%;
     margin: 10px auto ;
 }
+
+/*end:home*/
+
+/*begin:mainpage*/
 .logo-header {
     height: 20vh;
     z-index: 10000;
 }
-
 
 #main-page{
     height: 100vh;
@@ -129,10 +134,8 @@ body{
 }
 
 .main-page-conference-logo{
-
     height:18vh;
     padding:1vh;
-
 }
 .main-page-bvm-logo{
     height:18vh;
@@ -143,7 +146,8 @@ body{
     text-align: right;
     margin-right:20px;
 }
-
+/*end:mainpage*/
+/*end:index*/
 
 
 
