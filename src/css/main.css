@@ -87,10 +87,14 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body{
+    background-color: #fdf5e6;
+}
 .home{
     height: 100vh;
 }
 .index-bvm-logo{
+    margin-top: 20px;
     height: 14vh;
 }
 .index-bvm-text{
@@ -111,6 +115,7 @@ textarea {
 
 .index-bvm-photo {
     width: 100%;
+    margin: 10px auto ;
 }
 .logo-header {
     height: 20vh;
@@ -123,14 +128,23 @@ textarea {
     background-color: #fdf5e6;
 }
 
-.custom-row{
+.main-page-conference-logo{
+
+    height:18vh;
+    padding:1vh;
 
 }
-.custom-col{
-    float: left;
-    width: 14.25%;
-    text-align: center;
+.main-page-bvm-logo{
+    height:18vh;
+    padding:1vh;
 }
+.main-page-bvm-text{
+    margin-top: 20px;
+    text-align: right;
+    margin-right:20px;
+}
+
+
 
 
 
