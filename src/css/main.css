@@ -108,12 +108,28 @@ textarea {
     padding:auto;
     animation:btn-annimation 1s infinite;
 }
-@keyframes btn-annimation {
 
+.index-bvm-photo {
+    width: 100%;
 }
+.logo-header {
+    height: 20vh;
+    z-index: 10000;
+}
+
+
 #main-page{
     height: 100vh;
-    background-color: #00acc1;
+    background-color: #fdf5e6;
+}
+
+.custom-row{
+
+}
+.custom-col{
+    float: left;
+    width: 14.25%;
+    text-align: center;
 }
 
 
