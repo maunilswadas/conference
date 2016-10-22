@@ -90,39 +90,28 @@ textarea {
 body{
     background-color: #fdf5e6;
 }
+
+
+.big-font{
+    font-size: 40px;
+}
+.medium-font{
+    font-size: x-large;
+}
+.small-font{
+    font-size: medium;
+}
+.null-margin{
+    margin: 0;
+    padding: 0;
+}
+
 /*bigin: index*/
-/*bigin:home*/
-.home{
-    height: 100vh;
-}
-.index-bvm-logo{
-    margin-top: 20px;
-    height: 14vh;
-}
-.index-bvm-text{
-    font-weight: bold;
-}
-.index-conference-logo{
-    height: 70vh;
-}
-.index-down-logo{
-    height: 7vh;
-}
-.index-down-logo-div{
-    display: block;
-    margin: 0 auto;
-    padding:auto;
-    animation:btn-annimation 1s infinite;
-}
-
-.index-bvm-photo {
-    width: 100%;
-    margin: 10px auto ;
-}
-
-/*end:home*/
 
 /*begin:mainpage*/
+.conf-logo-divi{
+    margin-left: 30px;
+}
 .logo-header {
     height: 20vh;
     z-index: 10000;
@@ -146,7 +135,24 @@ body{
     text-align: right;
     margin-right:20px;
 }
+.first-ann-btn{
+    margin-top: 10px;
+}
 /*end:mainpage*/
+/*begin:footer*/
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.footer-logo img{
+    height: 100px;
+    width: auto;
+    margin:0 10px 0 10px;
+}
+
+
+/*end:footer*/
 /*end:index*/
 
 
