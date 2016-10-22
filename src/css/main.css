@@ -89,6 +89,7 @@ textarea {
    ========================================================================== */
 body{
     background-color: #fdf5e6;
+    font-family:Copperplate Gothic;
 }
 
 
@@ -111,6 +112,7 @@ body{
 /*begin:mainpage*/
 .conf-logo-divi{
     margin-left: 30px;
+    font-family:Rockwell Extra Bold;
 }
 .logo-header {
     height: 20vh;
@@ -145,10 +147,19 @@ footer {
     bottom: 0;
     width: 100%;
 }
+.footer-logo{
+    margin-top:10px;
+}
 .footer-logo img{
     height: 100px;
     width: auto;
-    margin:0 10px 0 10px;
+    margin:0 10px 10px 10px;
+}
+
+.custom-footer{
+    margin-top: 10px;
+    position: relative;
+    bottom: 0;
 }
 
 
