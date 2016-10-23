@@ -140,6 +140,9 @@ body{
 .first-ann-btn{
     margin-top: 10px;
 }
+.list-menu-icon{
+    padding: 5px;
+}
 /*end:mainpage*/
 /*begin:footer*/
 footer {
@@ -165,6 +168,8 @@ footer {
 
 /*end:footer*/
 /*end:index*/
+
+/*media*/
 
 
 
