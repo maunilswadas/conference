@@ -1,7 +1,4 @@
 $(document).ready(function (){
-    $("#scroll").click(function (){
-        $('html, body').animate({
-            scrollTop: $("#main-page").offset().top
-        }, 600);
-    });
+    $('.slider').slider({full_width: true});
+    $('.modal-trigger').leanModal();
 });

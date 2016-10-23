@@ -19,126 +19,95 @@
         <script src="js/main.js"></script>
 
     </head>
-    <body class="indigo lighten-1">
-        <div class="home">
-            <!--todo:design home div-->
+    <body>
 
-
-            <div class="center">
-                <img src="img/bvm-logo.png" class="index-bvm-logo" alt="bvm-logo">
-                <span class="index-bvm-text">Birla</span>
-                <span class="index-bvm-text">Vishvakarma</span>
-                <span class="index-bvm-text">Mahavidyalaya</span>
-                <div>
-                    <img class="index-conference-logo" src="img/udaan-wing.svg" alt="">
+        <div id="main-page" >
+            <div class="logo-header teal lighten-3">
+                <!--<img class="main-page-conference-logo left" src="img/bvm-logo.png" alt="bvm-logo">-->
+                <div class="conf-logo-divi left">
+                   <span class="big-font">ICRISET-2017</span><br>
+                   <span class="medium-font">International Conference on</span><br>
+                   <span class="small-font">RESEARCH AND INNOVATIONS IN SCIENCE, ENGINEERING & TECHNOLOGY</span>
                 </div>
-                <div id="scroll">
-                    <div  class="btn-floating btn-large index-down-logo-div">
-                        <img class="index-down-logo" src="img/down-arrow.svg" alt="">
+                <img class="main-page-bvm-logo right" src="img/bvm-logo.png" alt="bvm-logo">
+                <div class="main-page-bvm-text right">Birla<br/> Vishvakarma<br/> Mahavidyalaya</div>
+            </div>
+            <div class="nav-fixed">
+                <nav>
+                    <div class="nav-wrapper teal lighten-4">
+                        <ul id="nav-mobile" class="hide-on-med-and-down">
+                            <li><a href="#">Home</a></li>
+                           <li><a href="#">About Us</a></li>
+                           <li><a href="#">Call for papers</a></li>
+                           <li><a href="#">Important Dates</a></li>
+                           <li><a href="#">Registration</a></li>
+                           <li><a href="#">Committees</a></li>
+                           <li><a class="modal-trigger" href="#contact-us">Contact Us</a></li>
+                       </ul>
+                   </div>
+               </nav>
+            </div>
+
+            <div id="contact-us" class="modal bottom-sheet">
+                <a href="#!" class=" modal-action modal-close btn-flat right">Close</a>
+                <div class="modal-content">
+                    <h4>Contact us:</h4>
+                    <div class="row">
+                        <div class="col s4">
+                            <p>Address:<br>Birla Vishvakarma Mahavidyalaya<br>Engineering College<br>Mota Bazaar,<br> Vallabh Vidya Nagar,<br> Opp Shastri Maidan, Anand,<br> Gujarat 388120</p>
+                        </div>
+                        <div class="col s4">
+                            <p>
+                                Contact number:<br>
+                                <a href="tel:+91-2692-230104">+91-2692-230104</a><br>
+                                <a href="tel:+91-2692-236672">+91-2692-236672</a><br>
+                                E-mail:<br>
+                                <a href="mailto:principal@bvmengineering.ac.in">principal@bvmengineering.ac.in</a>
+                            </p>
+                        </div>
+                        <div class="col s4">
+                            <p>Organizing Secretaries:<br>
+                                Dr. J. M. Rathod<br>
+                                Dr. B. C. Goradiya
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
+            <!--<img class="carousel" src="img/carousel1.jpg">-->
+            <div class="slider">
+                <ul class="slides">
+                    <li>
+                        <img src="img/car3.jpg">
+                    </li>
+                    <li>
+                        <img src="img/car2.jpg">
+                    </li>
+                    <li>
+                        <img src="img/car1.jpg">
+                    </li>
+                </ul>
+            </div>
+            <div class="center first-ann-btn">
+                <a class="waves-effect waves-light btn center" href="../pdf/FirstAnnouncement.pdf">First Announcement</a>
+            </div>
+            <footer class="custom-footer teal lighten-3">
+                <div class="center">
+                    Organized By:
+                    <br>Birla Vishvakarma Mahavidyalaya
+                    <br>Engineering College
+                    <br>(An Autonomous Institution)
+                    <br>Managed by Charutar Vidya Mandal
+                    <br>Vallabh Vidyanagar, Anand, Gujarat, India-388120
+                </div>
+                <div class="footer-logo center">
+                    <img src="img/cvm-logo.jpg" alt="">
+                    <img src="img/bvm-logo.png" alt="">
+                    <img src="img/spfu-logo.png" alt="">
+                    <img src="img/npiu-logo.png" alt="">
+                    <img src="img/ISTE-logo.png" alt="">
+                </div>
+            </footer>
         </div>
-        <div id="main-page">
-            <!--todo:design mainpage div-->
-            <div class="container">
-                <div class="row">
-                <div class="col s4">
-                    <div class="card teal lighten-4">
-                        <div class="card-image waves-effect waves-block waves-light">
-                            <img class="activator" src="img/businessman.svg">
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title activator grey-text text-darken-4">About Us</span>
-
-                        </div>
-                        <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-                            <p>Here is some more information about this product that is only revealed once clicked on.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col s4">
-                    <div class="card yellow lighten-4">
-                        <div class="card-image waves-effect waves-block waves-light">
-                            <img class="activator" src="img/paper.svg">
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title activator grey-text text-darken-4">Call for paper</span>
-
-                        </div>
-                        <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-                            <p>Here is some more information about this product that is only revealed once clicked on.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col s4">
-                    <div class="card red lighten-4">
-                        <div class="card-image waves-effect waves-block waves-light">
-                            <img class="activator" src="img/calendar.svg">
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title activator grey-text text-darken-4">Important dates</span>
-
-                        </div>
-                        <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-                            <p>Here is some more information about this product that is only revealed once clicked on.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col s4">
-                    <div class="card deep-orange accent-2">
-                        <div class="card-image waves-effect waves-block waves-light">
-                            <img class="activator" src="img/domain-registration.svg">
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title activator grey-text text-darken-4">Registration</span>
-
-                        </div>
-                        <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-                            <p>Here is some more information about this product that is only revealed once clicked on.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col s4">
-                    <div class="card blue lighten-4">
-                        <div class="card-image waves-effect waves-block waves-light">
-                            <img class="activator" src="img/reunion.svg">
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title activator grey-text text-darken-4">Commities</span>
-
-                        </div>
-                        <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-                            <p>Here is some more information about this product that is only revealed once clicked on.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col s4">
-                    <div class="card grey lighten-1">
-                        <div class="card-image waves-effect waves-block waves-light">
-                            <img class="activator" src="img/phone-book.svg">
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title activator grey-text text-darken-4">Contact us</span>
-
-                        </div>
-                        <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-                            <p>Here is some more information about this product that is only revealed once clicked on.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-</div>
-        </div>
-
-
     </body>
 </html>

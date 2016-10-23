@@ -87,42 +87,86 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-.home{
-    height: 100vh;
+body{
+    background-color: #fdf5e6;
+    font-family:Copperplate Gothic;
 }
-.index-bvm-logo{
-    height: 14vh;
-}
-.index-bvm-text{
-    font-weight: bold;
-}
-.index-conference-logo{
-    height: 70vh;
-}
-.index-down-logo{
-    height: 7vh;
-}
-.index-down-logo-div{
-    display: block;
-    margin: 0 auto;
-    padding:auto;
-    animation:btn-annimation 1s infinite;
-}
-@keyframes btn-annimation {
 
+
+.big-font{
+    font-size: 40px;
 }
+.medium-font{
+    font-size: x-large;
+}
+.small-font{
+    font-size: medium;
+}
+.null-margin{
+    margin: 0;
+    padding: 0;
+}
+
+/*bigin: index*/
+
+/*begin:mainpage*/
+.conf-logo-divi{
+    margin-left: 30px;
+    font-family:Rockwell Extra Bold;
+}
+.logo-header {
+    height: 20vh;
+    z-index: 10000;
+}
+
 #main-page{
     height: 100vh;
-    background-color: #333;
+    background-color: #fdf5e6;
+}
 
+.main-page-conference-logo{
+    height:18vh;
+    padding:1vh;
 }
-.card-image{
+.main-page-bvm-logo{
+    height:18vh;
+    padding:1vh;
+}
+.main-page-bvm-text{
+    margin-top: 20px;
+    text-align: right;
+    margin-right:20px;
+}
+.first-ann-btn{
+    margin-top: 10px;
+}
+/*end:mainpage*/
+/*begin:footer*/
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.footer-logo{
+    margin-top:10px;
+}
+.footer-logo img{
+    height: 100px;
+    width: auto;
+    margin:0 10px 10px 10px;
+}
 
-    margin:0 70px 0 70px;
+.custom-footer{
+    margin-top: 10px;
+    position: relative;
+    bottom: 0;
 }
-.card{
-    padding-top:5px;
-}
+
+
+/*end:footer*/
+/*end:index*/
+
+
 
 
 
