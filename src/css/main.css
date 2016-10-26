@@ -112,13 +112,16 @@ body{
 /*begin:mainpage*/
 .conf-logo-divi{
     margin-left: 30px;
-    font-family:Rockwell Extra Bold;
+    font-family:Rockwell Extra  Bold;
 }
 .logo-header {
     height: 20vh;
     z-index: 10000;
-}
 
+}
+nav ul a{
+    color: black;
+}
 #main-page{
     height: 100vh;
     background-color: #fdf5e6;
@@ -137,7 +140,41 @@ body{
     text-align: right;
     margin-right:20px;
 }
+
 .first-ann-btn{
+    margin-top: 10px;
+}
+.waves-effect{
+    -webkit-animation: glowing 1500ms infinite;
+    -moz-animation: glowing 1500ms infinite;
+    -o-animation: glowing 1500ms infinite;
+    animation: glowing 1500ms infinite;
+}
+@-webkit-keyframes glowing {
+    0% { background-color: #004A7F; -webkit-box-shadow: 0 0 3px #004A7F; }
+    50% { background-color: #0094FF; -webkit-box-shadow: 0 0 10px #0094FF; }
+    100% { background-color: #004A7F; -webkit-box-shadow: 0 0 3px #004A7F; }
+}
+
+@-moz-keyframes glowing {
+    0% { background-color: #004A7F; -moz-box-shadow: 0 0 3px #004A7F; }
+    50% { background-color: #0094FF; -moz-box-shadow: 0 0 10px #0094FF; }
+    100% { background-color: #004A7F; -moz-box-shadow: 0 0 3px #004A7F; }
+}
+
+@-o-keyframes glowing {
+    0% { background-color: #004A7F; box-shadow: 0 0 3px #004A7F; }
+    50% { background-color: #0094FF; box-shadow: 0 0 10px #0094FF; }
+    100% { background-color: #004A7F; box-shadow: 0 0 3px #004A7F; }
+}
+
+@keyframes glowing {
+    0% { background-color: #004A7F; box-shadow: 0 0 3px #004A7F; }
+    50% { background-color: #0094FF; box-shadow: 0 0 10px #0094FF; }
+    100% { background-color: #004A7F; box-shadow: 0 0 3px #004A7F; }
+}
+
+.slider{
     margin-top: 10px;
 }
 .list-menu-icon{
@@ -168,7 +205,53 @@ footer {
 
 /*end:footer*/
 /*end:index*/
+/*begin AdvisoryCommittee*/
+/*.owl card{
+    position: absolute;
+    top: 20vh;
+    right: 10vw;
+    float: left;
+    height: 70vh;
+    width: 30vw;
+}
+ .card-image  img{
+    display: block;
+    width: 15vw;
+    height: auto;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 25%;
+     margin-right:25%;
 
+}*/
+.card content{
+    padding: 3px;
+}
+.owl.card {
+    margin: 10px;
+}
+#cl-sir   {
+    margin: 0 550px auto 550px;
+
+}
+.patron
+{
+    margin: 0 330px auto 340px;
+}
+.convenors
+{
+    margin: 0 30px auto 10px;
+    width:2000px;
+    height:300px;
+}
+.core{
+    margin: 0 10px auto 10px;
+    width:2500px;
+
+}
+#in-sir   {
+    margin: 0 550px auto 550px;
+}
 /*media*/
 
 
