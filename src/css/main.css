@@ -180,6 +180,13 @@ nav ul a{
 .list-menu-icon{
     padding: 5px;
 }
+#Committees{
+
+}
+#Committees .card{
+    margin: 10px auto;
+    width: 50%;
+}
 /*end:mainpage*/
 /*begin:footer*/
 footer {
@@ -202,55 +209,67 @@ footer {
     bottom: 0;
 }
 
-
 /*end:footer*/
 /*end:index*/
 /*begin AdvisoryCommittee*/
-/*.owl card{
-    position: absolute;
-    top: 20vh;
-    right: 10vw;
-    float: left;
-    height: 70vh;
-    width: 30vw;
-}
- .card-image  img{
-    display: block;
-    width: 15vw;
-    height: auto;
-    border-radius: 50%;
-    margin-top: 15px;
-    margin-left: 25%;
-     margin-right:25%;
 
-}*/
-.card content{
-    padding: 3px;
-}
-.owl.card {
-    margin: 10px;
-}
-#cl-sir   {
-    margin: 0 550px auto 550px;
+/*.card content{*/
+    /*padding: 3px;*/
+/*}*/
+/*.owl.card {*/
+    /*margin: 10px;*/
+/*}*/
+/*#cl-sir   {*/
+    /*margin: 0 550px auto 550px;*/
 
+/*}*/
+/*.patron*/
+/*{*/
+    /*margin: 0 330px auto 340px;*/
+/*}*/
+/*.convenors*/
+/*{*/
+    /*margin: 0 30px auto 10px;*/
+    /*width:2000px;*/
+    /*height:300px;*/
+/*}*/
+/*.core{*/
+    /*margin: 0 10px auto 10px;*/
+    /*width:2500px;*/
+
+/*}*/
+/*#in-sir   {*/
+    /*margin: 0 550px auto 550px;*/
+/*}*/
+
+.chief-patron{
+    margin: auto;
+ width: 30vw;
 }
-.patron
-{
-    margin: 0 330px auto 340px;
+
+.patron{
+    margin: auto;
+    width: 70vw;
 }
-.convenors
-{
-    margin: 0 30px auto 10px;
-    width:2000px;
-    height:300px;
+.conf-chair{
+    margin: auto;
+    width: 20vw;
+}
+.convenors .row{
+    width: 70vw;
+}
+.convenors .card{
+    width:15vw;
 }
 .core{
-    margin: 0 10px auto 10px;
-    width:2500px;
-
+    margin: auto;
+    //width: 75%;
 }
-#in-sir   {
-    margin: 0 550px auto 550px;
+.Committee .card{
+    height: 150px;
+}
+.Committee .col{
+    margin-top: 0;
 }
 /*media*/
 
