@@ -209,39 +209,6 @@ footer {
     bottom: 0;
 }
 
-/*end:footer*/
-/*end:index*/
-/*begin AdvisoryCommittee*/
-
-/*.card content{*/
-    /*padding: 3px;*/
-/*}*/
-/*.owl.card {*/
-    /*margin: 10px;*/
-/*}*/
-/*#cl-sir   {*/
-    /*margin: 0 550px auto 550px;*/
-
-/*}*/
-/*.patron*/
-/*{*/
-    /*margin: 0 330px auto 340px;*/
-/*}*/
-/*.convenors*/
-/*{*/
-    /*margin: 0 30px auto 10px;*/
-    /*width:2000px;*/
-    /*height:300px;*/
-/*}*/
-/*.core{*/
-    /*margin: 0 10px auto 10px;*/
-    /*width:2500px;*/
-
-/*}*/
-/*#in-sir   {*/
-    /*margin: 0 550px auto 550px;*/
-/*}*/
-
 .chief-patron{
     margin: auto;
  width: 30vw;
@@ -256,25 +223,46 @@ footer {
     width: 20vw;
 }
 .convenors .row{
-    width: 70vw;
+    //width: 70vw;
 }
 .convenors .card{
-    width:15vw;
+    //width:15vw;
 }
 .core{
     margin: auto;
     //width: 75%;
 }
 .Committee .card{
-    height: 150px;
+    height: 160px;
 }
 .Committee .col{
     margin-top: 0;
 }
 /*media*/
+/*tablet*/
+@media only screen and (max-width: 992px) {
+    .conf-chair{
+        margin: auto;
+        width: 40vw;
+    }
+    .chief-patron{
+        margin: auto;
+        width: 50vw;
+    }
 
+}
+/*phone*/
+@media only screen and (max-width: 600px) {
+    .conf-chair{
+        margin: auto;
+        width: 70vw;
+    }
+    .chief-patron{
+        margin: auto;
+        width: 90vw;
+    }
 
-
+}
 
 
 

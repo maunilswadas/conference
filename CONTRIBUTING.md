@@ -11,7 +11,6 @@ the developers managing and developing this open source project. In return,
 they should reciprocate that respect in addressing your issue or assessing
 patches and features.
 
-
 ## Using the issue tracker
 
 The [issue tracker](https://github.com/h5bp/html5-boilerplate/issues) is
