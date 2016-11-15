@@ -250,21 +250,46 @@ footer {
         right: auto
     }
 }
+/*hide in computer*/
+@media only screen and (min-width: 992px) {
+    .hide-in-computer{
+        display: none !important;
+    }
+}
 /*tablet*/
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 992px)and (min-width: 600px){
+    .hide-in-tab{
+        display: none !important;
+    }
+    .patron{
+        margin: auto;
+        width: 90vw;
+    }
     .conf-chair{
-        margin: auto;
-        width: 40vw;
-    }
+    margin: auto;
+    width: 40vw;
+}
     .chief-patron{
-        margin: auto;
-        width: 50vw;
-    }
+    margin: auto;
+    width: 50vw;
+}
+    .big-font{
+    font-size: 40px;
+}
+    .medium-font{
+    font-size: 30px;
+}
+    .small-font{
+    font-size: 14px;
+}
 
 
 }
 /*phone*/
 @media only screen and (max-width: 600px) {
+    .hide-in-mobile{
+        display: none !important;
+    }
     .conf-chair{
         margin: auto;
         width: 70vw;
@@ -286,7 +311,10 @@ footer {
     .small-font{
         font-size: 12px;
     }
-
+    #Committees .card{
+        margin: 10px auto;
+        width: 90%;
+    }
 }
 
 
