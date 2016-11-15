@@ -261,7 +261,19 @@ footer {
         margin: auto;
         width: 90vw;
     }
-
+    .main-page-conference-logo{
+        height:15vh;
+        padding:1vh;
+    }
+    .big-font{
+        font-size: 30px;
+    }
+    .medium-font{
+        font-size: 20px;
+    }
+    .small-font{
+        font-size: 12px;
+    }
 }
 
 
