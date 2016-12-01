@@ -1,0 +1,15 @@
+
+
+<ul class="collapsible" data-collapsible="accordion">
+{{#each tech}}
+    <li>
+        <div class="collapsible-header">{{dept}}</div>
+        <div class="collapsible-body">
+                {{#each content}}
+                    {{name}}
+                    {{des}}
+                {{/each}}
+        </div>
+    </li>
+{{/each}}
+</ul>
