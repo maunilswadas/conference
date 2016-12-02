@@ -152,6 +152,104 @@ var technicalCommitteeData={
                 }
 
             ]
+        },
+        {
+            "dept": "CP/IT",
+            "content": [
+                {
+                    "name": "Dr Mukesh Zaveri ",
+                    "des": "SVNIT, Surat"
+                },
+                {
+                    "name": "Dr. Shobha G  ",
+                    "des": "R V College of Engg, Bangalore"
+                },
+                {
+                    "name": "Dr. Manoj madhava Gore ",
+                    "des": "Motilal Nehru National Institute of Technology,Allahabad"
+                },
+                {
+                    "name": "Dr U.A. Deshpande  ",
+                    "des": "VNIT, Nagpur"
+                },
+                {
+                    "name": "Dr Deven Shah  ",
+                    "des": "Thakur college of engineering, Bombay"
+                },
+                {
+                    "name": "Dr Hemal shah   ",
+                    "des": "Ganpat Uiversity"
+                },
+                {
+                    "name": "Dr Amit Ganatra ",
+                    "des": "Charuset"
+                },
+                {
+                    "name": "Dr Krishna Prasad  ",
+                    "des": "IIT, Gandhinagar"
+                },
+                {
+                    "name": "Dr Narendra Chauhan ",
+                    "des": "ADIT"
+                },
+                {
+                    "name": "Dr Maulika Patel  ",
+                    "des": "GCET"
+                },
+                {
+                    "name": "Dr Hiren Patel ",
+                    "des": "SPEC, visnagar"
+                },
+                {
+                    "name": "Dr Samir Patel  ",
+                    "des": "PDPU University"
+                },
+                {
+                    "name": "Dr Mehul Raval ",
+                    "des": "Ahmedavad University"
+                },
+                {
+                    "name": "Dr Mayuri Mehta  ",
+                    "des": "SCET, Surat"
+                },
+                {
+                    "name": "Dr Chirag Sheth  ",
+                    "des": "TCS, Gandhinagar"
+                },
+                {
+                    "name": "Dr. Vibha Patel ",
+                    "des": "Nirma University"
+                },
+                {
+                    "name": " Dr. Darshak G. Thakore ",
+                    "des": "BVM"
+                },
+                {
+                    "name": "Dr. Mayur Vegad",
+                    "des": "BVM"
+                },
+                {
+                    "name": "Dr. N. M. Patel ",
+                    "des": "BVM"
+                },
+                {
+                    "name": "Dr. V. K. Thakar ",
+                    "des": "ADIT"
+                },
+                {
+                    "name": "Dr. D. M. Patel ",
+                    "des": "BVM"
+                },
+                {
+                    "name": "Dr. Keyur Rana  ",
+                    "des": "SCET, Surat"
+                },
+                {
+                    "name": "Dr. Brijesh Bhatt  ",
+                    "des": "DDIT"
+                }
+            ]
+
         }
     ]
 
