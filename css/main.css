@@ -106,7 +106,10 @@ body{
     margin: 0;
     padding: 0;
 }
-
+.registration-modal{
+    padding:10px;
+    border-radius: 2px;
+}
 /*bigin: index*/
 
 /*begin:mainpage*/
@@ -316,6 +319,21 @@ footer {
         width: 90%;
     }
 }
+/*begin: technocal */
+.card.technical-committee-card{
+    height: 180px;
+    margin: 10px;
+}
+.card.technical-committee-card .card-content{
+    padding: 10px;
+}
+.card.technical-committee-card   .card-content p{
+    padding: 10px;
+}
+.collapsible.container.center{
+    margin: auto;
+}
+/*end: technocal */
 
 
 
