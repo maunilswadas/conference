@@ -154,6 +154,44 @@ var technicalCommitteeData={
             ]
         },
         {
+
+            "dept": "EL/EC",
+            "content": [
+                {
+                    "name": "Dr. Ved Vyas Dwivedi ",
+                    "des": "Pro. VC,C. U. Shah Uni, Wadhwan City, Gujarat"
+                },
+                {
+                    "name": "Dr. H. B. Shah ",
+                    "des": "Professor,GCET"
+                },
+                {
+                    "name": "Dr. C. H. Vithlani",
+                    "des": "Professor,GEC, Rajkot"
+                },
+                {
+                    "name": "Dr. Nagendra P. Gajjar",
+                    "des": "Professor,NirmaUni, Ahmedabad"
+                },
+                {
+                    "name": "Dr. MehulRaval",
+                    "des": "Asso. Professor,Ahmedabad Uni"
+                },
+                {
+                    "name": "Dr. V. K. Thakar  ",
+                    "des": "Professor,ADIT"
+                },
+                {
+                    "name": "Dr. Upena Dalal  ",
+                    "des": "Asso. Professor,SVNIT, Surat"
+                },
+                {
+                    "name": "Dr. B. V. Thakar   ",
+                    "des": "Professor,GCET"
+                }
+            ]
+        },
+        {
             "dept": "CP/IT",
             "content": [
                 {
@@ -251,6 +289,7 @@ var technicalCommitteeData={
             ]
 
         }
+
     ]
 
 
