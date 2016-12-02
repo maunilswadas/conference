@@ -159,7 +159,7 @@ var technicalCommitteeData={
             "content": [
                 {
                     "name": "Dr. Ved Vyas Dwivedi ",
-                    "des": "Pro. VC,C. U. Shah Uni, Wadhwan City, Gujarat"
+                    "des": "Pro. VC,C. U. Shah University"
                 },
                 {
                     "name": "Dr. H. B. Shah ",
@@ -191,6 +191,236 @@ var technicalCommitteeData={
                 }
             ]
         },
+        {
+            "dept": "MECHANICAL/PRODUCTION",
+            "content": [
+                {
+                    "name": "Dr. Dhaval Jani ",
+                    "des": "ADIT"
+                },
+                {
+                    "name": "Dr. Bhavesh Patel ",
+                    "des": "U V Patel College,GANPAT University"
+                },
+                {
+                    "name": "Dr. Anand Joshi",
+                    "des": "GCET"
+                },
+                {
+                    "name": "Dr. Y.D Patel",
+                    "des": "ADIT"
+                },
+                {
+                    "name": "Dr. Vinod Patel",
+                    "des": "GCET"
+                },
+                {
+                    "name": "Dr. Manish Mehta  ",
+                    "des": "GCET"
+                },
+                {
+                    "name": "Dr. Chetanya Desai  ",
+                    "des": "C.K.Pithawala College, Surat"
+                },
+                {
+                    "name": "Dr. Sanjay Upadhyay   ",
+                    "des": "IIT,Roorkee"
+                },
+                {
+                    "name": "Dr. D.S Sharma  ",
+                    "des": "MSU"
+                },
+                {
+                    "name": "Dr. Sunil Shah  ",
+                    "des": "IIT,Jodhpur"
+                },
+                {
+                    "name": "Dr. G.D.Basan  ",
+                    "des": "DDU"
+                },
+                {
+                    "name": "Dr. N.S.Patel  ",
+                    "des": "DDU"
+                },
+                {
+                    "name": "Dr. Mukesh Bulsara  ",
+                    "des": "GCET"
+                },
+                {
+                    "name": "Dr. Ketan Tamboli  ",
+                    "des": "GCET"
+                },
+                {
+                    "name": "Dr.H.R.Thakkar  ",
+                    "des": "IIT,Jodhpur"
+                },
+                {
+                    "name": "Dr.Piyush Jain  ",
+                    "des": "Bardoli"
+                },
+                {
+                    "name": "Dr. V.D.Chauhan  ",
+                    "des": "BVM"
+                },
+                {
+                    "name": "Dr.H.P.Patolia  ",
+                    "des": "BVM"
+                },
+                {
+                    "name": "Dr. Reena Trivedi  ",
+                    "des": "Nirma University"
+                },
+                {
+                    "name": "Dr. Ajit Shukla  ",
+                    "des": "School of Engineering, RKU"
+                },
+                {
+                    "name": "Dr.P.V.Ramanna  ",
+                    "des": "SVIT, Vasad"
+                },
+                {
+                    "name": "Dr. Vishal Singh  ",
+                    "des": "ADIT"
+                },
+                {
+                    "name": "Dr. M.K.Rathod  ",
+                    "des": "SVNIT, Surat"
+                },
+                {
+                    "name": "Dr. Ramani  ",
+                    "des": "Shri Labhubhai Trivedi Inst.of Engg.Tech,Rajkot"
+                },
+                {
+                    "name": "Dr. Mitesh Shah  ",
+                    "des": "ADIT"
+                },
+                {
+                    "name": "Dr. R.N.Mevada  ",
+                    "des": "S.R.Patel Enginnering college,Dabhi,Unja"
+                },
+                {
+                    "name": "Dr. P.P.Rathod  ",
+                    "des": "GEC,Bhuj"
+                },
+                {
+                    "name": "Dr. Manan Desai  ",
+                    "des": "GCET"
+                },
+                {
+                    "name": "Prof. Neeraj Agrawal  ",
+                    "des": "Baba Saheb Ambedkar Technological University,Lanore,Maharashtra"
+                },
+                {
+                    "name": "Dr. R.K.Shukla  ",
+                    "des": "GEC,Bharuch"
+                },
+                {
+                    "name": "Dr. V.D.Dhiman  ",
+                    "des": "GEC, Surat"
+                },
+                {
+                    "name": "Dr. N.J.Hadiya  ",
+                    "des": "ICES, Singapore"
+                },
+                {
+                    "name": "Prof. Satish Shah ",
+                    "des": "BVM"
+                },
+                {
+                    "name": "Dr. Pragnesh K Brahmbhatt  ",
+                    "des": "GEC,Dahod"
+                },
+                {
+                    "name": " Absar Lakdawala",
+                    "des": "Nirma University"
+                },
+                {
+                    "name": "Dr. Vijay Chaudhary ",
+                    "des": "Charusat"
+                },
+                {
+                    "name": "Dr. Vishvesh Badheka ",
+                    "des": "PDPU"
+                },
+                {
+                    "name": "Akash Pandey ",
+                    "des": "MSU"
+                },
+                {
+                    "name": "Dr. Anish Gandhi",
+                    "des": "C.K.Pithawala College,Surat"
+                },
+                {
+                    "name": "Dr.Piyush Gohil ",
+                    "des": "MSU"
+                },
+                {
+                    "name": " Dr.Jitendra Vadher",
+                    "des": "GEC,Palanpur"
+                },
+                {
+                    "name": "Dr. Mayur Sutariya ",
+                    "des": "Charusat"
+                },
+                {
+                    "name": "Dr. Dharshak Desai ",
+                    "des": "GCET"
+                },
+                {
+                    "name": "Dr. Mitesh Popat(HPP) ",
+                    "des": "Adani Institute of Infrastructure,Ahmedabad"
+                },
+                {
+                    "name": "Dr. K.B.Judal",
+                    "des": "GEC,Patan"
+                },
+                {
+                    "name": "Dr.J.B.Valaki ",
+                    "des": "GEC,Bhavnagar"
+                },
+                {
+                    "name": "Dr. Kaushal Desai",
+                    "des": "IIT,Jodhpur"
+                },
+                {
+                    "name": "Dr.Piyush Tailor",
+                    "des": "SVIT,Vasad"
+                },
+                {
+                    "name": "Dr. Mangal Bhatt",
+                    "des": "SS Engineering College,Bhavnagar"
+                },
+                {
+                    "name": "Dr.Sanket Bhavsar ",
+                    "des": "GCET"
+                },
+                {
+                    "name": "Dr. Kartik Kothari ",
+                    "des": "School of Engineering,RKU"
+                },
+                {
+                    "name": "Dr. K.Subburaj ",
+                    "des": "Singapore University of Technology and Design,Singapore"
+                },
+                {
+                    "name": "Dr. P.M.George ",
+                    "des": "BVM"
+                },
+                {
+                    "name": "Dr. A.M.Trivedi ",
+                    "des": "BVM"
+                },
+                {
+                    "name": "Dr. V.J.Patel ",
+                    "des": "BVM"
+                },
+                {
+                    "name": "Dr. Bharat Modi ",
+                    "des": "Nirma University"
+                },
+            ]
+        },
+
         {
             "dept": "CP/IT",
             "content": [
