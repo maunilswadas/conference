@@ -243,10 +243,12 @@ footer {
 .Committee .col{
     margin-top: 0;
 }
+
+
 /*media*/
 /*for large screen only*/
 @media only screen and (min-width: 993px) {
-    .row .col.l3.convenors-fit {
+    .row .col.l3.five-fit {
         width: 20%;
         margin-left: auto;
         left: auto;
@@ -319,7 +321,7 @@ footer {
         width: 90%;
     }
 }
-/*begin: technocal */
+/*begin: technical */
 .card.technical-committee-card{
     height: 180px;
     margin: 10px;
@@ -333,8 +335,19 @@ footer {
 .collapsible.container.center{
     margin: auto;
 }
-/*end: technocal */
+/*end: technical */
+/*begin:advisory*/
 
+.international-advisory .card {
+    height: 400px;
+    background-color: #26c6da;
+}
+
+.national-advisory .card {
+    height: 370px;
+    background-color: #26c6da;
+}
+/*end:advisory*/
 
 
 
