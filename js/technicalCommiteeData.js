@@ -417,7 +417,7 @@ var technicalCommitteeData={
                 {
                     "name": "Dr. Bharat Modi ",
                     "des": "Nirma University"
-                },
+                }
             ]
         },
 
@@ -599,7 +599,7 @@ var technicalCommitteeData={
                     "name": "Dr Rajesh Gujar",
                     "des": "PDPU Gandhinagar"
                 }
-               
+
             ]
 
         }
