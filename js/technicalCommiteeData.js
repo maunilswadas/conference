@@ -518,6 +518,90 @@ var technicalCommitteeData={
                 }
             ]
 
+        },
+
+        {
+            "dept": "CIVIL/STRUCTURE",
+            "content": [
+                {
+                    "name": "Dr. A V Thomas ",
+                    "des": "Director, Adani Institute of Infrastructure Engineering, Ahmedabad."
+                },
+                {
+                    "name": "Dr. Rajiv Bhatt ",
+                    "des": "ADIT New Vallabh Vidyanagar"
+                },
+                {
+                    "name": "Prof. J J Bhavsar ",
+                    "des": "BVM Vallabh Vidyanagar"
+                },
+                {
+                    "name": "Prof. J R Pitroda  ",
+                    "des": "BVM Vallabh Vidyanagar"
+                },
+                {
+                    "name": "Prof. D S Modi  ",
+                    "des": "BVM Vallabh Vidyanagar"
+                },
+                {
+                    "name": "Dr. U D Patel ",
+                    "des": "MSU, Vadodara"
+                },
+                {
+                    "name": "Dr D S Vyas ",
+                    "des": "BVM Vallabh Vidyanagar"
+                },
+                {
+                    "name": "Prof (Mrs) Reshma L Patel ",
+                    "des": "BVM Vallabh Vidyanagar"
+                },
+                {
+                    "name": "Prof P J Shah ",
+                    "des": "BVM Vallabh Vidyanagar"
+                },
+                {
+                    "name": "Prof H J Chauhan  ",
+                    "des": "BVM Vallabh Vidyanagar"
+                },
+                {
+                    "name": "Dr H M Patel ",
+                    "des": "MSU, Vadodara"
+                },
+                {
+                    "name": "Dr Khadeeja Priyan  ",
+                    "des": "GCET Vallabh Vidyanagar"
+                },
+                {
+                    "name": "Dr S D Dhiman ",
+                    "des": "BVM Vallabh Vidyanagar"
+                },
+                {
+                    "name": "Dr H V Patel  ",
+                    "des": "BVM Vallabh Vidyanagar"
+                },
+                {
+                    "name": "Dr L B Zala",
+                    "des": "BVM Vallabh Vidyanagar"
+                },
+                {
+                    "name": "Dr. Shriniwas S. Arkatkar",
+                    "des": "SVNIT, Surat"
+                },
+                {
+                    "name": " Dr Yogesh Shah",
+                    "des": "IITRAM, Gandhinagar"
+                },
+                {
+                    "name": "Dr P G Gundaliya",
+                    "des": "LDCE Ahmedabad"
+                },
+                {
+                    "name": "Dr Rajesh Gujar",
+                    "des": "PDPU Gandhinagar"
+                }
+               
+            ]
+
         }
 
     ]
