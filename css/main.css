@@ -260,10 +260,13 @@ footer {
 }
 /*end: technical */
 /*begin:advisory*/
+.advisory .card {
+    height: 350px;
+    background-color: #26c6da;
+}
 .advisory-last-row{
     position: relative;
     left: 12%;
-
 }
 .international-advisory-last-row{
     position: relative;
@@ -325,7 +328,15 @@ footer {
     .small-font{
     font-size: 14px;
 }
-
+    .international-advisory-last-row{
+        left: auto;
+    }
+    .national-advisory-last-row {
+        left: auto;
+    }
+    .advisory-last-row{
+        left: auto;
+    }
 
 }
 /*phone*/
@@ -357,6 +368,17 @@ footer {
     #Committees .card{
         margin: 10px auto;
         width: 90%;
+    }
+    .international-advisory-last-row{
+        position: relative;
+        left: auto;
+    }
+    .national-advisory-last-row {
+        position: relative;
+        left: auto;
+    }
+    .advisory-last-row{
+        left: auto;
     }
 }
 
