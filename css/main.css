@@ -243,8 +243,46 @@ footer {
 .Committee .col{
     margin-top: 0;
 }
+/*end:footer*/
+/*begin: technical */
+.card.technical-committee-card{
+    height: 180px;
+    margin: 10px;
+}
+.card.technical-committee-card .card-content{
+    padding: 10px;
+}
+.card.technical-committee-card   .card-content p{
+    padding: 10px;
+}
+.collapsible.container.center{
+    margin: auto;
+}
+/*end: technical */
+/*begin:advisory*/
+.advisory-last-row{
+    position: relative;
+    left: 12%;
 
+}
+.international-advisory-last-row{
+    position: relative;
+    left: 12%;
+}
+.national-advisory-last-row {
+    position: relative;
+    left: 10%;
+}
+.international-advisory .card {
+    height: 430px;
+    background-color: #26c6da;
+}
 
+.national-advisory .card {
+    height: 370px;
+    background-color: #26c6da;
+}
+/*end:advisory*/
 /*media*/
 /*for large screen only*/
 @media only screen and (min-width: 993px) {
@@ -321,45 +359,7 @@ footer {
         width: 90%;
     }
 }
-/*begin: technical */
-.card.technical-committee-card{
-    height: 180px;
-    margin: 10px;
-}
-.card.technical-committee-card .card-content{
-    padding: 10px;
-}
-.card.technical-committee-card   .card-content p{
-    padding: 10px;
-}
-.collapsible.container.center{
-    margin: auto;
-}
-/*end: technical */
-/*begin:advisory*/
-.advisory-last-row{
-    position: relative;
-    left: 12%;
 
-}
-.international-advisory-last-row{
-    position: relative;
-    left: 40%;
-}
-.national-advisory-last-row {
-    position: relative;
-    left: 35%;
-}
-.international-advisory .card {
-    height: 400px;
-    background-color: #26c6da;
-}
-
-.national-advisory .card {
-    height: 370px;
-    background-color: #26c6da;
-}
-/*end:advisory*/
 
 
 
