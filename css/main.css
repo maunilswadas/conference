@@ -334,9 +334,6 @@ footer {
     .national-advisory-last-row {
         left: auto;
     }
-    .advisory-last-row{
-        left: auto;
-    }
 
 }
 /*phone*/
@@ -375,9 +372,6 @@ footer {
     }
     .national-advisory-last-row {
         position: relative;
-        left: auto;
-    }
-    .advisory-last-row{
         left: auto;
     }
 }
