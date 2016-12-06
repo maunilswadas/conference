@@ -618,7 +618,7 @@ var technicalCommitteeData={
                 },
                 {
                     "name": "Dr. C. S. Sanghvi ",
-                    "des": " "
+                    "des": "LD College of Engineering, Ahmedabad"
                 },
                 {
                     "name": "Dr. S. V. Mevada",
@@ -630,7 +630,7 @@ var technicalCommitteeData={
                 },
                 {
                     "name": "Prof. K. N. Sheth",
-                    "des": "DDU"
+                    "des": "DDU, Nadiad"
                 },
                 {
                     "name": "Dr. A. K. Verma",
@@ -638,7 +638,7 @@ var technicalCommitteeData={
                 },
                 {
                     "name": "Dr. B. A. Shah ",
-                    "des": " "
+                    "des": "MSU, Baroda "
                 },
                 {
                     "name": "Dr. J. A. Amin",
