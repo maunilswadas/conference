@@ -252,7 +252,7 @@ var technicalCommitteeData={
                     "des": "IIT,Jodhpur"
                 },
                 {
-                    "name": "DrPiyush Jain  ",
+                    "name": "Dr Piyush Jain  ",
                     "des": "Bardoli"
                 },
                 {
@@ -260,11 +260,15 @@ var technicalCommitteeData={
                     "des": "BVM"
                 },
                 {
-                    "name": "DrH.P.Patolia  ",
+                    "name": "Dr H.P.Patolia  ",
                     "des": "BVM"
                 },
                 {
                     "name": "Dr Reena Trivedi  ",
+                    "des": "Thapar University"
+                },
+                {
+                    "name": "Dr. Ashish Singla  ",
                     "des": "Nirma University"
                 },
                 {
@@ -272,7 +276,7 @@ var technicalCommitteeData={
                     "des": "School of Engineering, RKU"
                 },
                 {
-                    "name": "DrP.V.Ramanna  ",
+                    "name": "Dr P.V.Ramanna  ",
                     "des": "SVIT, Vasad"
                 },
                 {
@@ -348,11 +352,11 @@ var technicalCommitteeData={
                     "des": "C.K.Pithawala College,Surat"
                 },
                 {
-                    "name": "DrPiyush Gohil ",
+                    "name": "Dr Piyush Gohil ",
                     "des": "MSU"
                 },
                 {
-                    "name": " DrJitendra Vadher",
+                    "name": " Dr Jitendra Vadher",
                     "des": "GEC,Palanpur"
                 },
                 {
@@ -364,7 +368,7 @@ var technicalCommitteeData={
                     "des": "GCET"
                 },
                 {
-                    "name": "Dr Mitesh Popat(HPP) ",
+                    "name": "Dr Mitesh Popat",
                     "des": "Adani Institute of Infrastructure,Ahmedabad"
                 },
                 {
@@ -372,7 +376,7 @@ var technicalCommitteeData={
                     "des": "GEC,Patan"
                 },
                 {
-                    "name": "DrJ.B.Valaki ",
+                    "name": "Dr J.B.Valaki ",
                     "des": "GEC,Bhavnagar"
                 },
                 {
@@ -380,7 +384,7 @@ var technicalCommitteeData={
                     "des": "IIT,Jodhpur"
                 },
                 {
-                    "name": "DrPiyush Tailor",
+                    "name": "Dr Piyush Tailor",
                     "des": "SVIT,Vasad"
                 },
                 {
@@ -388,7 +392,7 @@ var technicalCommitteeData={
                     "des": "SS Engineering College,Bhavnagar"
                 },
                 {
-                    "name": "DrSanket Bhavsar ",
+                    "name": "Dr Sanket Bhavsar ",
                     "des": "GCET"
                 },
                 {
