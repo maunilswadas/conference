@@ -92,7 +92,6 @@ body{
     font-family:Copperplate Gothic;
 }
 
-
 .big-font{
     font-size: 40px;
 }
@@ -264,17 +263,10 @@ footer {
     height: 350px;
     background-color: #26c6da;
 }
-.advisory-last-row{
-    position: relative;
-    left: 12%;
-}
+
 .international-advisory-last-row{
     position: relative;
     left: 12%;
-}
-.national-advisory-last-row {
-    position: relative;
-    left: 10%;
 }
 .international-advisory .card {
     height: 430px;
@@ -296,11 +288,28 @@ footer {
         right: auto
     }
 }
+
 /*hide in computer*/
 @media only screen and (min-width: 992px) {
     .hide-in-computer{
         display: none !important;
     }
+    .custom-fit-for-7-cards{
+        width: 14.28% !important;
+        margin-left: auto;
+        left: auto;
+        right: auto;
+    }
+    .national-advisory-last-row{
+        position: relative;
+        left:28.56%;
+    }
+    .advisory-last-row{
+        position: relative;
+        left: 12%;
+    }
+
+
 }
 /*tablet*/
 @media only screen and (max-width: 992px)and (min-width: 600px){
@@ -331,10 +340,6 @@ footer {
     .international-advisory-last-row{
         left: auto;
     }
-    .national-advisory-last-row {
-        left: auto;
-    }
-
 }
 /*phone*/
 @media only screen and (max-width: 600px) {
@@ -367,10 +372,6 @@ footer {
         width: 90%;
     }
     .international-advisory-last-row{
-        position: relative;
-        left: auto;
-    }
-    .national-advisory-last-row {
         position: relative;
         left: auto;
     }
