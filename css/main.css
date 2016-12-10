@@ -109,6 +109,10 @@ body{
     padding:10px;
     border-radius: 2px;
 }
+.footer-copyright{
+    height:50px;
+
+}
 /*bigin: index*/
 
 /*begin:mainpage*/
@@ -374,6 +378,10 @@ footer {
     .international-advisory-last-row{
         position: relative;
         left: auto;
+    }
+    .footer-copyright{
+        height:70px;
+
     }
 }
 
