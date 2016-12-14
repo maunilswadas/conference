@@ -185,6 +185,10 @@ var technicalCommitteeData={
                 {
                     "name": "Dr B. V. Thakar   ",
                     "des": "Professor,GCET"
+                },
+                {
+                    "name": "Mr. Hitesh P. Shah ",
+                    "des": "nnovation Architect Strategic Technology Applications  at SPIN MASTER, Toronto, Canada."
                 }
             ]
         },
