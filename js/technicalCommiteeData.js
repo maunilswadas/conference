@@ -9,14 +9,14 @@ var technicalCommitteeData={
                 {"name":"Prof(Dr) D C Vakaskar",
                 "des":"Professor Head, MSU"
                 },
-                {"name":"Prof. R K George ",
+                {"name":"Prof R K George ",
                 "des":"Professor,Dept.of Mathematics, IIST Trivandrum"
                 },
-                {"name":"Prof. N. Sukavanam",
+                {"name":"Prof N Sukavanam",
                 "des":"Professor, Dept of Mathematics, IIT Roorkee"
                 },
                 {
-                    "name":"Dr G M Deheri Rader ",
+                    "name":"Dr G M Deheri Reader ",
                     "des":"Dept. of Mathematics, SPU, VV Nagar"
                 },
                 {
@@ -32,7 +32,7 @@ var technicalCommitteeData={
                     "des":"Dept. of Mathematics, SPU"
                 },
                 {
-                    "name":"Dr A H Hasmani ",
+                    "name":"Prof A H Hasmani ",
                     "des":"Professor &amp; Head, SPU"
                 },
                 {
