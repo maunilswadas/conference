@@ -33,14 +33,14 @@ var technicalCommitteeData={
                 },
                 {
                     "name":"Prof A H Hasmani ",
-                    "des":"Professor &amp; Head, SPU"
+                    "des":"Professor & Head, SPU"
                 },
                 {
                     "name":"Dr A K Shukla ",
                     "des":"Associate Professor, SVNIT, SURAT"
                 },
                 {
-                    "name":"Prof K A Thaker ",
+                    "name":"Prof K V Thaker ",
                     "des":"Associate Professor, GU"
                 },
                 {
