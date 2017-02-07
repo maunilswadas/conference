@@ -247,6 +247,17 @@ footer {
     margin-top: 0;
 }
 /*end:footer*/
+.row-fit{
+    position: relative;
+    left: 20%;
+    width:60%;
+}
+.two-fit{
+    //position: relative;
+    //left: 30%;
+    width: 10vw;
+}
+
 /*begin: technical */
 .card.technical-committee-card{
     height: 180px;
